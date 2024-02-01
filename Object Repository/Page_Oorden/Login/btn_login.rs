@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_login</name>
+   <tag></tag>
+   <elementGuidId>bee25148-e4b1-4221-9a28-2b78fc07c5b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.btn.btn-indigo.btn-ripple</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Iniciar Sesión']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>a1445bde-b1d1-4e02-8682-d1905cc9e75a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>c059a153-2613-4417-bee8-b17d2d35d877</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-indigo btn-ripple</value>
+      <webElementGuid>a9efc29c-22d1-4b76-982b-a057a1e2d6c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Iniciar Sesión</value>
+      <webElementGuid>6aa5b42b-62da-4fb3-a78a-c47a8704251e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;no-js&quot;]/body[@class=&quot;bg-login&quot;]/div[@class=&quot;loginbox login&quot;]/div[@class=&quot;login-form&quot;]/form[@class=&quot;general-fom validarFormulario&quot;]/input[@class=&quot;btn btn-indigo btn-ripple&quot;]</value>
+      <webElementGuid>4d8de288-a078-4d92-abde-b6d539fb3d10</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Iniciar Sesión']</value>
+      <webElementGuid>5d80931b-0a3b-4dca-b12b-b71542117d12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/input</value>
+      <webElementGuid>3759fc33-1c38-4121-b2be-4d83e2c5b235</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'submit']</value>
+      <webElementGuid>9a42919d-1d62-4145-9f1a-05307945809c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

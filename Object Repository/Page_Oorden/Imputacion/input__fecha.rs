@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__fecha</name>
+   <tag></tag>
+   <elementGuidId>acdd5217-5bce-4507-a8db-010f0cfa47b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.fecha.oorden-date-picker.form-control.border-input-select</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='fecha-contenedor']/div[2]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>c7b19bb8-d8eb-405f-a491-38700a32cb5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>13</value>
+      <webElementGuid>e4e92a58-1961-4d30-8b80-0b5ec988f9a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fecha oorden-date-picker form-control border-input-select</value>
+      <webElementGuid>36ff5da8-2622-4214-90fe-24ad1d2fd18e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fecha-contenedor&quot;)/div[2]/input[@class=&quot;fecha oorden-date-picker form-control border-input-select&quot;]</value>
+      <webElementGuid>dcd7378e-59d0-419a-9d8e-685eac12b887</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fecha-contenedor']/div[2]/input</value>
+      <webElementGuid>268daa3a-689d-4ba9-94db-4cd2c6001284</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div[2]/div/div[2]/div/div[2]/input</value>
+      <webElementGuid>f524bc98-17ae-4740-ae99-b68157e85910</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
