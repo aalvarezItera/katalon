@@ -17,19 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://erp.oorden.com/usuarios/login')
-
-WebUI.click(findTestObject('Page_Oorden/Login/input_login_email'))
-
-WebUI.setText(findTestObject('Page_Oorden/Login/input_login_email'), 'angel.alvarez@iteraprocess.com')
-
-WebUI.click(findTestObject('Page_Oorden/Login/input_login_psw'))
-
-WebUI.setText(findTestObject('Page_Oorden/Login/input_login_psw'), 'itera2021')
-
-WebUI.click(findTestObject('Page_Oorden/Login/btn_login'))
-
-WebUI.delay(1)
+WebUI.openBrowser('www.google.es')
 
 WebUI.closeBrowser()
 
